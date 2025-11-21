@@ -38,7 +38,7 @@ Follow the steps below to set up and run this project locally:
 
 ### 1. **Increment & Decrement (Context API Example)**
 _Title:_ `Change Background Image on Scroll`  
-![Change Background on Scroll]()
+![Change Background on Scroll](https://raw.githubusercontent.com/rohitash-eng/increment-and-decrement-using-Context-Api-in-react/refs/heads/main/public/ss.png)
 
 ---
 
